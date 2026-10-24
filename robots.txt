@@ -1,0 +1,6 @@
+# robots.txt
+#
+User-agent: *
+Sitemap: https://www.furpia.com.br/sitemap.xml
+Allow: /
+Disallow: /assets/
